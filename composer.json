@@ -8,6 +8,11 @@
             "email": "iamgold0105@gmail.com"
         }
     ],
+    "support": {
+        "issues": "https://github.com/iamgold/yii2fluentd/issues?state=open",
+        "wiki": "https://github.com/iamgold/yii2fluentd/wiki/",
+        "source": "https://github.com/iamgold/yii2fluentd"
+    },
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "~2.0.0",
