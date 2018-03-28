@@ -11,7 +11,7 @@ use yii\base\Component;
  * @author Eric Huang <iamgold0105@gmail.com>
  * @version 1.0.0
  */
-class Fluentd extends Component implements FluentdInterface
+class Fluentd extends Component
 {
     /**
      * @var string $endpoint

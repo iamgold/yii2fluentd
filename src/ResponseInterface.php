@@ -6,6 +6,8 @@ interface ResponseInterface
 {
     /**
      * is success
+     *
+     * @return bool
      */
     public function isSuccess();
 
