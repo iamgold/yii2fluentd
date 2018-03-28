@@ -1,0 +1,19 @@
+{
+    "name": "iamgold/yii2fluentd",
+    "description": "This is a lightweight client library of fluentd",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eric Huang",
+            "email": "iamgold0105@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {"iamgold\\yii2fluentd\\": "src/"}
+    }
+}
